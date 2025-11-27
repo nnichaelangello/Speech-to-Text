@@ -83,5 +83,3 @@ print(text)
 
 - Trained on ~200 hours of Indonesian speech (read + conversational)
 - Achieves **~12–18% Character Error Rate (CER)** on held-out test set (depending on domain)
-- Inference speed: **>50x real-time** on modern GPU, ~10x on CPU
-
